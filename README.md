@@ -52,7 +52,7 @@ It seems to very equal across the board. The differences seem very small and in 
 They do not seem to show a strong corrolation no.
 DistanceFromHome vs WorkLifeBalance corrolation coefficient is -0.026556, indicating a weak negative relationship.
 
-As for marital status:
+As for marital status: <br>
 Divorced correlation coefficient is -0.009080, showing a very weak negative relationship with worklifebalance.  <br>
 Married correlation coefficient is -0.006388, again showing a very weak negative relationship with worklifebalance.  <br>
 Single correlation coefficient is 0.014921, this time showing a very weak positive relationship with worklifebalance.  
